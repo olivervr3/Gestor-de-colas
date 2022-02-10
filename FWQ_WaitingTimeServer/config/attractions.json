@@ -1,0 +1,79 @@
+{
+    "attractions": [
+        {
+            "id": 1,
+            "cycleTime": 1,
+            "cycleUsers": 5
+        },
+        {
+            "id": 2, 
+            "cycleTime": 2,
+            "cycleUsers": 10
+        },
+        {
+            "id": 3, 
+            "cycleTime": 1,
+            "cycleUsers": 10
+        },
+        {
+            "id": 4, 
+            "cycleTime": 2,
+            "cycleUsers": 10
+        },
+        {
+            "id": 5, 
+            "cycleTime": 1,
+            "cycleUsers": 15
+        },
+        {
+            "id": 6, 
+            "cycleTime": 2,
+            "cycleUsers": 20
+        },
+        {
+            "id": 7, 
+            "cycleTime": 1,
+            "cycleUsers": 20
+        },
+        {
+            "id": 8, 
+            "cycleTime": 1,
+            "cycleUsers": 10
+        },
+        {
+            "id": 9, 
+            "cycleTime": 2,
+            "cycleUsers": 15
+        },
+        {
+            "id": 10, 
+            "cycleTime": 2,
+            "cycleUsers": 20
+        },
+        {
+            "id": 11, 
+            "cycleTime": 1,
+            "cycleUsers": 50
+        },
+        {
+            "id": 12, 
+            "cycleTime": 2,
+            "cycleUsers": 20
+        },
+        {
+            "id": 13, 
+            "cycleTime": 3,
+            "cycleUsers": 13
+        },
+        {
+            "id": 14, 
+            "cycleTime": 1,
+            "cycleUsers": 21
+        },        
+        {
+            "id": 15, 
+            "cycleTime": 2,
+            "cycleUsers": 30
+        }
+	]
+}

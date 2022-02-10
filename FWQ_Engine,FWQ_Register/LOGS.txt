@@ -1,0 +1,8 @@
+2021-12-29 19:22:51.055276 | lunes -- 127.0.0.1 | ALTA | usuario dado de alta | 
+2021-12-29 19:24:34.657700 | lunes -- 127.0.0.1 | ERROR | USUARIO/CONTRASEÑA INCORRECTA | 
+2021-12-29 19:27:08.796296 | martes -- 127.0.0.1 | MODIFICACION | Usuario ha modificado su contraseña | 
+2021-12-29 19:27:28.401174 | lunes -- 127.0.0.1 | ERROR | USUARIO YA EXISTE | 
+2021-12-29 22:32:39.610941 | sergio -- 127.0.0.1 | ALTA | usuario dado de alta | 
+2021-12-29 22:34:34.411923 | prueba -- 127.0.0.1 | ERROR | USUARIO YA EXISTE | 
+2021-12-29 22:35:08.721602 | prueba -- 127.0.0.1 | ALTA | usuario dado de alta | 
+2021-12-29 22:35:25.030601 | prueba2 -- 127.0.0.1 | MODIFICACION | Usuario ha modificado su nombre de usuario | 
